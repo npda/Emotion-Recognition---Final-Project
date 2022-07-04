@@ -1,4 +1,4 @@
-# Speech-Recognition---Final-Project
+# Speech-Emotion-Recognition / Final-Project
 
 ## Overview
 
