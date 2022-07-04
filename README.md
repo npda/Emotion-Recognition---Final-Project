@@ -26,7 +26,8 @@ consisting of songs and regular speech recordings of 24 actors with equal gender
 
 The emotions conveyed were each confirmed by 247 individuals.
 
-Speeches includes calm, happy, sad, angry, fearful, surprise, and disgust, and songs calm, happy, sad, angry, and fearful emotions.
+Speeches includes calm, happy, sad, angry, fearful, surprise, and disgust, and songs calm, happy, sad, angry, and fearful emotions,
+expressed at neutral, 'regular' and high intensity.
 
 ## Libraries
 
