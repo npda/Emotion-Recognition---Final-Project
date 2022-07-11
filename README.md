@@ -29,6 +29,11 @@ The emotions conveyed were each confirmed by 247 individuals.
 Speeches includes calm, happy, sad, angry, fearful, surprise, and disgust, and songs calm, happy, sad, angry, and fearful emotions,
 expressed at neutral, 'regular' and high intensity.
 
+## DataSet
+
+Achieved a 75% accuracy using a Tpot pipeline with MLP.
+FunFact: the best predicted labels were Male-Angry & Female-Happy
+
 ## Libraries
 
 - Python
@@ -43,10 +48,6 @@ expressed at neutral, 'regular' and high intensity.
 
 
 ### Links
-
-Trello: https://trello.com/b/3DAn0eSU/final-project-speech-recognition
-
-GitHub Repo: https://github.com/gastryphon/Speech-Recognition---Final-Project
 
 Dataset: The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
            https://zenodo.org/record/1188976
